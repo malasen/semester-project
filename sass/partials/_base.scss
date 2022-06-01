@@ -1,0 +1,30 @@
+main {
+  min-height: calc(100vh - 130px);
+}
+
+footer {
+  height: 38px;
+}
+
+span:hover,
+.edit-row:hover,
+.delete-row:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+nav {
+  font-size: larger;
+}
+
+cart-row {
+  background-color: white;
+}
+
+.dnon-sm {
+  display: none;
+
+  @media (min-width: 576px) {
+    display: block;
+  }
+}

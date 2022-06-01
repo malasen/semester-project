@@ -1,0 +1,15 @@
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1500px,
+) !default;
+
+$primary: #007bff;
+$dark: #18191a;
+$secondary: #1bb8df;
+
+$modal-content-bg: rgb(238, 238, 238);
+$modal-content-color: #18191a;
