@@ -57,7 +57,7 @@ The admin panel will open at `http://localhost:1337/admin`.
 If you get a warning about not being able to use port 1337, check that no other Strapi instances are running in another command line or terminal.
 
 ```
-Then Open index.html with the Live Server plugin if using Visual Studio Code or yout preferred program.
+Then Open index.html with the Live Server plugin if using Visual Studio Code, or your preferred program.
 
 User credentials
 
